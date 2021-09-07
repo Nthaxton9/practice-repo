@@ -1,27 +1,27 @@
-## First Name Last Name
+## Nile Thaxton
 
-### Term Year 
+### Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Precalculus Algebra/Trigonometry
 
-- Course 2
+- Introduction to Programming Using Python
 
-- Course 3
+- Introduction to Data Science
 
-- Course 4
+- Foundations for Academic Success
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Learning new things
 
-- Thing 2
+- Basketball
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- STEM <https:foundation.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/09/07
